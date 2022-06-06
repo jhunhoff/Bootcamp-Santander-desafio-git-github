@@ -1,0 +1,20 @@
+git status
+//vê o status do repositório, se tem algo novo adicionado/modificado
+
+git add .(ou *)
+//adiciona tudo que está no repositório para staged (pronto para ser commitado)
+
+git commit -m "mensagem"
+//faz o commit dos arquivos staged com uma mensagem personalizada (cada commit é como se fosse uma versão do repositório)
+
+git push origin main(ou master)
+//envia o repositório do servidor local (minha máquina) para o servidor remoto (github)
+
+git clone link
+//clona um repositório do github para a máquina
+
+git pull
+//traz o conteúdo mais atualizado do repositório para a máquina
+
+git init
+//inicia o git na pasta especificada, criando um repositório
