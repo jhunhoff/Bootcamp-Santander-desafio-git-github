@@ -18,3 +18,6 @@ git pull
 
 git init
 //inicia o git na pasta especificada, criando um repositório
+
+git remote add origin link_do_repositorio
+//adiciona o caminho do github para o repositório local
