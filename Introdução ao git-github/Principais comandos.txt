@@ -21,3 +21,6 @@ git init
 
 git remote add origin link_do_repositorio
 //adiciona o caminho do github para o repositório local
+
+git branch -m master main
+//muda a branch local do git de master para main
